@@ -1,0 +1,2 @@
+# Unity_MagicQPlayground
+magicqを使ってライティングテストする用のリポジトリ
